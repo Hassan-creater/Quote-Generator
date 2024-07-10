@@ -1,0 +1,6 @@
+@media screen and (max-width:468px) {
+    .quotes{
+        width: 310px;
+        font-size: 1rem;
+    }
+}
